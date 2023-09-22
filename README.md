@@ -4,4 +4,4 @@ I got to know the basic syntax of Java and write a simple program using variable
 
 ## My solution
 
-https://github.com/robertwjager/SimpleChattyBot
+https://hyperskill.org/projects/113
